@@ -4,7 +4,7 @@ https://ilyakirsanov.ru/3d-glo/
 **Услуги по 3D моделированию. Landing page**  
 Учебный проект для практики JavaScript
 
-**Технологии:** 
+**Технологии:**  
 JavaScript Native, Webpack
 
 **Функциональность:** 
